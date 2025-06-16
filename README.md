@@ -21,7 +21,7 @@ The project is a static front-end version of the Spotify web player, created to 
 ---
 
 ## 📸 Screenshots
-
+![image-alt](https://github.com/Sahilkhandelwal2072/spotify_clone/blob/main/assets/Screenshot%202025-06-16%20193416.png)
 ## 📂 How to Run
 
 1. Download or clone the repository:
