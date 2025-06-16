@@ -21,7 +21,7 @@ The project is a static front-end version of the Spotify web player, created to 
 ---
 
 ## 📸 Screenshots
-<img src=""C:\Users\sahil\OneDrive\Pictures\Screenshots\Screenshot 2025-06-16 193416.png"" alt="">
+![image alt]("C:\Users\sahil\OneDrive\Pictures\Screenshots\Screenshot 2025-06-16 193416.png")
 
 ## 📂 How to Run
 
